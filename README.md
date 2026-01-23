@@ -1,8 +1,8 @@
-# Hi, I'm Jaime 👋
+# Jaime Bustos
 
-- 🛰️ Building intelligent systems at the intersection of AI and space exploration.  
-- 🧠 Leading **Litica**, a modular, LLM-driven platform redefining personal AI ownership.  
-- 🔧 Engineering scalable pipelines and distributed logic to power real-world applications.  
+- 🛰️ Building intelligent systems at the intersection of AI and Space Operations.  
+- 🧠 Leading **Litica**, a personal intelligence startup focused on externalizing cognition.  
+- 🔧 Engineering distributed system designs.  
 
 ## Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/jaimebustosjr)  
