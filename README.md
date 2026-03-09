@@ -1,7 +1,7 @@
 # Jaime Bustos
 
 - 🛰️ Building intelligent systems at the intersection of AI and Space Operations.  
-- 🧠 Leading **Litica**, a personal intelligence startup focused on externalizing cognition.  
+- 🧠 Leading **Litica**, a distributed intelligence startup focused on externalizing cognition.  
 - 🔧 Engineering distributed system designs.  
 
 ## Connect with Me
