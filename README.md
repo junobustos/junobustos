@@ -1,7 +1,7 @@
 # Juno Bustos
 
-- 🛰️ Focusing on distributed agentic AI and humanistic replication
-- 🧠 Leading **Litica**, a distributed intelligence startup focused on externalizing cognition and memory.  
+- 🛰️ Focusing on distributed agentic AI and autonomous simulations
+- 🧠 Leading **Litica**, a community of thinkers in the age of AI.  
 
 ## Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/junobustos)  
